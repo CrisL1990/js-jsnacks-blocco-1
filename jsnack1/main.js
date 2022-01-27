@@ -1,5 +1,5 @@
 //Definisce quanti numeri sono richiesti in input dall'utente
-let numbers = 3;
+let numbers = 10;
 
 //Definisce una lista all'interno della quale saranno immagazzinati i numeri in input
 numberList = [];
